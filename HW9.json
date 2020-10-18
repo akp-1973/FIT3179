@@ -22,13 +22,11 @@
   "projection": {"type": "equalEarth"},
   "mark": {"type": "geoshape"},
   "encoding": {
-    "color": {
-      "field": "Count",
-      "type": "quantitative"
-    },
+    "color": {"field": "Count", "type": "quantitative"},
     "tooltip": [
       {"field": "objects.name", "type": "nominal", "title": "Country"},
       {"field": "Count", "type": "quantitative"}
     ]
-  }
+  },
+  "config": {}
 }

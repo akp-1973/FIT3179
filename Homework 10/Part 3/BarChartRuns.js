@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "width": 600,
   "height": 500,
-  "title": "IPL Teams Home & Away Win Rate",
+  "title": "IPL Top Ten Players with Most Runs",
   "data": {
       "url": "https://raw.githubusercontent.com/akshithP/FIT3179/main/Homework 10/Part 3/TopTenRuns.csv"
   },

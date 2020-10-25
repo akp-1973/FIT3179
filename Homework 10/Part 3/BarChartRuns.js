@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "width": 500,
+  "width": 600,
   "height": 500,
   "title": "IPL Teams Home & Away Win Rate",
   "data": {

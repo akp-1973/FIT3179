@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,13 +9,23 @@
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
 </head>
 <body>
+<h1>Homework Assessment - Week 10</h1>
 
-<div id="vis"></div>
+<h2>Visualisation 1</h2>
+<div id="vis1"></div>
+
+<h2>Visualisation 2</h2>
+<div id="vis2"></div>
 
 <script type="text/javascript">
+  var specVis1 = "./IPLPieChart.js";
+  var specVis2= "./TopTenRuns.js";
+
+  vegaEmbed('#vis1', specVis1).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
   
-  var spec = "https://akshithP.github.io/FIT3179/Homework 10/Part 3/IPLPieChart.js";
-  vegaEmbed('#vis', spec).then(function(result) {
+   vegaEmbed('#vis2', specVis2).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>

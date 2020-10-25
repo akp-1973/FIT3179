@@ -6,12 +6,19 @@
   "data": {
       "url": "https://raw.githubusercontent.com/akshithP/FIT3179/main/Homework 10/Part 3/Batting_Hand_Data.csv"
   },
-  "selection": { 
+  "encoding": {
+      "theta": {
+          "field": "Total Batsmen", 
+          "type": "quantitative"
+          }
+  },
+  "layer": [
+      {
+          "selection": { 
       "batting_highlight": { "type": "multi", "fields": ["Batting Hand"], "bind": "legend" } 
 },
   "mark":"arc",
   "encoding": {
-      "theta": {"field": "Total Batsmen", "type": "quantitative"},
       "color":{"field": "Batting Hand", "type": "nominal",
       "scale": {
           "domain": [
@@ -32,5 +39,18 @@
         {"field": "Total Batsmen", "type": "quantitative"}
     ]
   }
+      }, 
+      {"mark": {
+          "type": "text",
+          "radius": 90,
+          "dy": -60,
+          "fontSize": 17},
+          "encoding": {
+              "text": {"field": "Batting Hand", "type": "nominal"}
+          }
+      
+      }
+  ]
+  
 
 }

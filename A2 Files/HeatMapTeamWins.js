@@ -6,6 +6,18 @@
   "title": "IPL Team's Yearly Wins",
   "params": [
     {
+      "name": "Wins_above",
+      "value": 0,
+      "bind":{
+        "input": "range",
+        "min": 0,
+        "max": 11,
+        "step": 1,
+        "name": "Minimun Wins" 
+      }
+
+    },
+    {
       "name": "team_selection",
       "bind":{
         "input": "select",
@@ -23,7 +35,7 @@
           "Rajastan Royals",
           "Rising Pune Supergiants",
           "Royal Challengers Bangalore",
-          "Sunrisers Hyderbad"
+          "Sunrisers Hyderabad"
         ],
         "labels": [
           "Show All",
@@ -39,14 +51,15 @@
           "Rajastan Royals",
           "Rising Pune Supergiants",
           "Royal Challengers Bangalore",
-          "Sunrisers Hyderbad"
+          "Sunrisers Hyderabad"
         ],
         "name": "Team Selection:"
       }
     }
   ],
   "transform": [
-    {"filter": "team_selection == null || datum.Team == team_selection"}
+    {"filter": "team_selection == null || datum.Team == team_selection"},
+    {"filter": "datum.Wins > Wins_above"}
   ],
   "mark": "rect",
   "encoding": {

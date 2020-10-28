@@ -11,25 +11,25 @@ Pune,Chandigarh,46,30.7333,76.7794
 Mumbai,Kanpur,4,26.449923,80.331871
 Kolkata,Jaipur,47,26.912434,75.78727
 Bangalore,Chennai,57,13.0825,80.275
-Rajkot,Cape Town,7,-33.92487,18.424055
-Kolkata,Port Elizabeth,7,-33.960758,25.62064
-Delhi,Durban,15,-29.845409,31.030884
-Mumbai,Centurion,12,-25.87,28.17
-Bangalore,East London,3,51.500152,-0.126236
-Delhi,Johannesburg,8,-26.189948,28.031616
-Hyderabad,Kimberley,3,44.271852,-88.340584
-Rajkot,Bloemfontein,2,-29.11337,26.223267
-Hyderabad,Ahmedabad,12,23.015213,72.592642
-Indore,Cuttack,7,20.466256,85.896252
-Kolkata,Nagpur,3,21.149693,79.109265
+Rajkot,Ahmedabad,12,23.015213,72.592642
+Kolkata,Cuttack,7,20.466256,85.896252
+Delhi,Nagpur,3,21.149693,79.109265
 Mumbai,Dharamsala,9,48.088833,16.292667
-Pune,Kochi,5,9.931167,76.267061
-Rajkot,Visakhapatnam,13,17.723125,83.30795
-Kolkata,Raipur,6,21.245494,81.641855
-Mumbai,Ranchi,7,23.368675,85.324861
-Pune,Abu Dhabi,7,24.488466,54.379623
-Bangalore,Sharjah,6,25.309742,55.419038
-Kolkata,Mohali,10,30.710596,76.712898
+Bangalore,Kochi,5,9.931167,76.267061
+Delhi,Visakhapatnam,13,17.723125,83.30795
+Hyderabad,Raipur,6,21.245494,81.641855
+Rajkot,Ranchi,7,23.368675,85.324861
+Hyderabad,Mohali,10,30.710596,76.712898
+Indore,,,,
+Kolkata,,,,
+Mumbai,,,,
+Pune,,,,
+Rajkot,,,,
+Kolkata,,,,
+Mumbai,,,,
+Pune,,,,
+Bangalore,,,,
+Kolkata,,,,
 Chandigarh,,,,
 Pune,,,,
 Rajkot,,,,

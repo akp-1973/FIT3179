@@ -1,15 +1,15 @@
-Team,home_wins,away_wins,home_matches,away_matches,Home Wins Percentage ,Away Wins Percentage
-Rising Pune Supergiant,5,5,8,8,62.5,62.5
-Mumbai Indians,58,51,101,86,57.42574257,59.30232558
-Chennai Super Kings,51,49,89,75,57.30337079,65.33333333
-Delhi Capitals,3,7,6,10,50,70
-Sunrisers Hyderabad,30,28,63,45,47.61904762,62.22222222
-Rajasthan Royals,29,46,67,80,43.28358209,57.5
-Deccan Chargers,18,11,43,32,41.86046512,34.375
-Kings XI Punjab,38,44,91,85,41.75824176,51.76470588
-Royal Challengers Bangalore,35,49,85,95,41.17647059,51.57894737
-Kolkata Knight Riders,34,58,83,95,40.96385542,61.05263158
-Delhi Daredevils,25,42,72,89,34.72222222,47.19101124
-Pune Warriors,6,6,20,26,30,23.07692308
-Kochi Tuskers Kerala,2,4,7,7,28.57142857,57.14285714
-Gujarat Lions,1,12,14,16,7.142857143,75
+Team,home_wins,away_wins,home_matches,away_matches,Home Wins Percentage ,Away Wins Percentage,Total
+Rising Pune Supergiant,5,5,8,8,62.5,62.5,125
+Mumbai Indians,58,51,101,86,57.42574257,59.30232558,116.7280682
+Chennai Super Kings,51,49,89,75,57.30337079,65.33333333,122.6367041
+Delhi Capitals,3,7,6,10,50,70,120
+Sunrisers Hyderabad,30,28,63,45,47.61904762,62.22222222,109.8412698
+Rajasthan Royals,29,46,67,80,43.28358209,57.5,100.7835821
+Deccan Chargers,18,11,43,32,41.86046512,34.375,76.23546512
+Kings XI Punjab,38,44,91,85,41.75824176,51.76470588,93.52294764
+Royal Challengers Bangalore,35,49,85,95,41.17647059,51.57894737,92.75541796
+Kolkata Knight Riders,34,58,83,95,40.96385542,61.05263158,102.016487
+Delhi Daredevils,25,42,72,89,34.72222222,47.19101124,81.91323346
+Pune Warriors,6,6,20,26,30,23.07692308,53.07692308
+Kochi Tuskers Kerala,2,4,7,7,28.57142857,57.14285714,85.71428571
+Gujarat Lions,1,12,14,16,7.142857143,75,82.14285714

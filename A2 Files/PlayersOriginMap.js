@@ -1,28 +1,41 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "title": "IPL Players Origin",
   "width": 800,
-  "height": 600,
+  "height": 500,
+  "title": "Earthquakes of magnitude 4 or large between 4 Oct 2020 and 10 Oct 2020",
   "projection": {"type": "equirectangular"},
-  "data": {
-    "url": "https://raw.githubusercontent.com/akshithP/FIT3179/main/A2 Files/world.json",
-    "format": {"type": "topojson", "feature": "world"}
-  },
-  "transform": [
+  "layer": [
     {
-      "lookup": "properties.name",
-      "from":{
-        "data": {
-          "url": "https://raw.githubusercontent.com/akshithP/FIT3179/main/Homework 9/playersCountryCount.csv"
+      "data": {
+        "url": "https://raw.githubusercontent.com/akshithP/FIT3179/main/A2 Files/world.json",
+        "format": {"type": "topojson", "feature": "world"}
+      },
+      "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/akshithP/FIT3179/main/A2 Files/playersCountryCount.csv"
+      },
+      "mark": {"type": "circle"},
+      "encoding": {
+        "longitude": {"field": "Long", "type": "quantitative"},
+        "latitude": {"field": "Lat", "type": "quantitative"},
+        "size": {
+          "field": "Count",
+          "type": "quantitative"
+
         },
-        "key": "Country",
-        "fields": ["Count"]
+        "color": {
+          "field": "Percentage of Players",
+          "type": "quantitative",
+          "scale": {"scheme": "viridis"}
+        },
+        "tooltip": [
+          {"field": "Country", "type": "nominal"},
+          {"field": "Count", "type": "quantitative"},
+          {"field": "Percentage of Players", "type": "quantitative"}
+        ]
       }
     }
-  ],
-  "mark": {"type": "geoshape"},
-  "encoding": {
-    "color": {"field": "Count", "type": "quantitative"}
-  }
-
+  ]
 }

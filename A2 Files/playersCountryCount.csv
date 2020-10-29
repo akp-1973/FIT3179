@@ -1,198 +1,198 @@
-﻿Country,Count,Percentage of Players
-Afghanistan,3,0.530035336
-Australia,78,13.78091873
-Antigua,1,0.176678445
-Bangladesh,5,0.883392226
-Barbados,6,1.060070671
-India,308,54.41696113
-Netherlands,1,0.176678445
-Nepal,1,0.176678445
-Guyana,5,0.883392226
-Jamaica,5,0.883392226
-New Zealand,28,4.946996466
-South Africa,44,7.77385159
-Sri Lanka,22,3.886925795
-Pakistan,14,2.473498233
-Trinidad and Tobago,10,1.766784452
-Saint Lucia,1,0.176678445
-United Kingdom,34,6.007067138
-Albania,0,0
-Algeria,0,0
-Andorra,0,0
-Angola,0,0
-Argentina,0,0
-Armenia,0,0
-Austria,0,0
-Azerbaijan,0,0
-The Bahamas,0,0
-Bahrain,0,0
-Belarus,0,0
-Belgium,0,0
-Belize,0,0
-Benin,0,0
-Bhutan,0,0
-Bolivia,0,0
-Bosnia and Herzegovina,0,0
-Botswana,0,0
-Brazil,0,0
-Brunei,0,0
-Bulgaria,0,0
-Burkina Faso,0,0
-Burundi,0,0
-Cambodia,0,0
-Cameroon,0,0
-Canada,0,0
-Cape Verde,0,0
-Central African Republic,0,0
-Chad,0,0
-Chile,0,0
-China,0,0
-Colombia,0,0
-Comoros,0,0
-"Congo, Republic of the",0,0
-Democratic Republic of the Congo,0,0
-Costa Rica,0,0
-Cote d'Ivoire,0,0
-Croatia,0,0
-Cuba,0,0
-Cyprus,0,0
-Czech Republic,0,0
-Denmark,0,0
-Djibouti,0,0
-Dominica,0,0
-Dominican Republic,0,0
-East Timor (Timor-Leste),0,0
-Ecuador,0,0
-Egypt,0,0
-El Salvador,0,0
-Equatorial Guinea,0,0
-Eritrea,0,0
-Estonia,0,0
-Ethiopia,0,0
-Fiji,0,0
-Finland,0,0
-France,0,0
-Gabon,0,0
-The Gambia,0,0
-Georgia,0,0
-Germany,0,0
-Ghana,0,0
-Greece,0,0
-Grenada,0,0
-Guatemala,0,0
-Guinea,0,0
-Guinea-Bissau,0,0
-Haiti,0,0
-Honduras,0,0
-Hungary,0,0
-Iceland,0,0
-Indonesia,0,0
-Iran,0,0
-Iraq,0,0
-Ireland,0,0
-Israel,0,0
-Italy,0,0
-Japan,0,0
-Jordan,0,0
-Kazakhstan,0,0
-Kenya,0,0
-Kiribati,0,0
-"Korea, North",0,0
-"Korea, South",0,0
-Kosovo,0,0
-Kuwait,0,0
-Kyrgyzstan,0,0
-Laos,0,0
-Latvia,0,0
-Lebanon,0,0
-Lesotho,0,0
-Liberia,0,0
-Libya,0,0
-Liechtenstein,0,0
-Lithuania,0,0
-Luxembourg,0,0
-Macedonia,0,0
-Madagascar,0,0
-Malawi,0,0
-Malaysia,0,0
-Maldives,0,0
-Mali,0,0
-Malta,0,0
-Marshall Islands,0,0
-Mauritania,0,0
-Mauritius,0,0
-Mexico,0,0
-"Micronesia, Federated States of",0,0
-Moldova,0,0
-Monaco,0,0
-Mongolia,0,0
-Montenegro,0,0
-Morocco,0,0
-Mozambique,0,0
-Myanmar (Burma),0,0
-Namibia,0,0
-Nauru,0,0
-Nicaragua,0,0
-Niger,0,0
-Nigeria,0,0
-Norway,0,0
-Oman,0,0
-Palau,0,0
-Panama,0,0
-Papua New Guinea,0,0
-Paraguay,0,0
-Peru,0,0
-Philippines,0,0
-Poland,0,0
-Portugal,0,0
-Qatar,0,0
-Romania,0,0
-Russia,0,0
-Rwanda,0,0
-Saint Kitts and Nevis,0,0
-Saint Vincent and the Grenadines,0,0
-Samoa,0,0
-San Marino,0,0
-Sao Tome and Principe,0,0
-Saudi Arabia,0,0
-Senegal,0,0
-Serbia,0,0
-Seychelles,0,0
-Sierra Leone,0,0
-Singapore,0,0
-Slovakia,0,0
-Slovenia,0,0
-Solomon Islands,0,0
-Somalia,0,0
-South Sudan,0,0
-Spain,0,0
-Sudan,0,0
-Suriname,0,0
-Swaziland,0,0
-Sweden,0,0
-Switzerland,0,0
-Syria,0,0
-Taiwan,0,0
-Tajikistan,0,0
-Tanzania,0,0
-Thailand,0,0
-Togo,0,0
-Tonga,0,0
-Tunisia,0,0
-Turkey,0,0
-Turkmenistan,0,0
-Tuvalu,0,0
-Uganda,0,0
-Ukraine,0,0
-United Arab Emirates,0,0
-United States of America,0,0
-Uruguay,0,0
-Uzbekistan,0,0
-Vanuatu,0,0
-Vatican City (Holy See),0,0
-Venezuela,0,0
-Vietnam,0,0
-Yemen,0,0
-Zambia,0,0
-Zimbabwe,2,0.35335689
-USA,0,0
+﻿Country,Count,Percentage of Players,Lat,Long
+Afghanistan,3,0.530035336,33.828685,65.658159
+Australia,78,13.78091873,-25.047944,134.003347
+Antigua,1,0.176678445,17.060816,-61.796428
+Bangladesh,5,0.883392226,23.795572,90.283221
+Barbados,6,1.060070671,13.169025,-59.555144
+India,308,54.41696113,23.041173,78.891806
+Netherlands,1,0.176678445,52.730774,5.835204
+Nepal,1,0.176678445,27.952857,84.018869
+Guyana,5,0.883392226,4.633369,-58.801275
+Jamaica,5,0.883392226,18.115368,-77.160905
+New Zealand,28,4.946996466,-41.837112,172.793343
+South Africa,44,7.77385159,-29.140993,24.367459
+Sri Lanka,22,3.886925795,7.517242,80.779494
+Pakistan,14,2.473498233,30.335127,69.365084
+Trinidad and Tobago,10,1.766784452,10.485968,-61.255908
+Saint Lucia,1,0.176678445,13.895288,-60.964518
+United Kingdom,34,6.007067138,54.260582,-1.979057
+Albania,0,0,,
+Algeria,0,0,,
+Andorra,0,0,,
+Angola,0,0,,
+Argentina,0,0,,
+Armenia,0,0,,
+Austria,0,0,,
+Azerbaijan,0,0,,
+The Bahamas,0,0,,
+Bahrain,0,0,,
+Belarus,0,0,,
+Belgium,0,0,,
+Belize,0,0,,
+Benin,0,0,,
+Bhutan,0,0,,
+Bolivia,0,0,,
+Bosnia and Herzegovina,0,0,,
+Botswana,0,0,,
+Brazil,0,0,,
+Brunei,0,0,,
+Bulgaria,0,0,,
+Burkina Faso,0,0,,
+Burundi,0,0,,
+Cambodia,0,0,,
+Cameroon,0,0,,
+Canada,0,0,,
+Cape Verde,0,0,,
+Central African Republic,0,0,,
+Chad,0,0,,
+Chile,0,0,,
+China,0,0,,
+Colombia,0,0,,
+Comoros,0,0,,
+"Congo, Republic of the",0,0,,
+Democratic Republic of the Congo,0,0,,
+Costa Rica,0,0,,
+Cote d'Ivoire,0,0,,
+Croatia,0,0,,
+Cuba,0,0,,
+Cyprus,0,0,,
+Czech Republic,0,0,,
+Denmark,0,0,,
+Djibouti,0,0,,
+Dominica,0,0,,
+Dominican Republic,0,0,,
+East Timor (Timor-Leste),0,0,,
+Ecuador,0,0,,
+Egypt,0,0,,
+El Salvador,0,0,,
+Equatorial Guinea,0,0,,
+Eritrea,0,0,,
+Estonia,0,0,,
+Ethiopia,0,0,,
+Fiji,0,0,,
+Finland,0,0,,
+France,0,0,,
+Gabon,0,0,,
+The Gambia,0,0,,
+Georgia,0,0,,
+Germany,0,0,,
+Ghana,0,0,,
+Greece,0,0,,
+Grenada,0,0,,
+Guatemala,0,0,,
+Guinea,0,0,,
+Guinea-Bissau,0,0,,
+Haiti,0,0,,
+Honduras,0,0,,
+Hungary,0,0,,
+Iceland,0,0,,
+Indonesia,0,0,,
+Iran,0,0,,
+Iraq,0,0,,
+Ireland,0,0,,
+Israel,0,0,,
+Italy,0,0,,
+Japan,0,0,,
+Jordan,0,0,,
+Kazakhstan,0,0,,
+Kenya,0,0,,
+Kiribati,0,0,,
+"Korea, North",0,0,,
+"Korea, South",0,0,,
+Kosovo,0,0,,
+Kuwait,0,0,,
+Kyrgyzstan,0,0,,
+Laos,0,0,,
+Latvia,0,0,,
+Lebanon,0,0,,
+Lesotho,0,0,,
+Liberia,0,0,,
+Libya,0,0,,
+Liechtenstein,0,0,,
+Lithuania,0,0,,
+Luxembourg,0,0,,
+Macedonia,0,0,,
+Madagascar,0,0,,
+Malawi,0,0,,
+Malaysia,0,0,,
+Maldives,0,0,,
+Mali,0,0,,
+Malta,0,0,,
+Marshall Islands,0,0,,
+Mauritania,0,0,,
+Mauritius,0,0,,
+Mexico,0,0,,
+"Micronesia, Federated States of",0,0,,
+Moldova,0,0,,
+Monaco,0,0,,
+Mongolia,0,0,,
+Montenegro,0,0,,
+Morocco,0,0,,
+Mozambique,0,0,,
+Myanmar (Burma),0,0,,
+Namibia,0,0,,
+Nauru,0,0,,
+Nicaragua,0,0,,
+Niger,0,0,,
+Nigeria,0,0,,
+Norway,0,0,,
+Oman,0,0,,
+Palau,0,0,,
+Panama,0,0,,
+Papua New Guinea,0,0,,
+Paraguay,0,0,,
+Peru,0,0,,
+Philippines,0,0,,
+Poland,0,0,,
+Portugal,0,0,,
+Qatar,0,0,,
+Romania,0,0,,
+Russia,0,0,,
+Rwanda,0,0,,
+Saint Kitts and Nevis,0,0,,
+Saint Vincent and the Grenadines,0,0,,
+Samoa,0,0,,
+San Marino,0,0,,
+Sao Tome and Principe,0,0,,
+Saudi Arabia,0,0,,
+Senegal,0,0,,
+Serbia,0,0,,
+Seychelles,0,0,,
+Sierra Leone,0,0,,
+Singapore,0,0,,
+Slovakia,0,0,,
+Slovenia,0,0,,
+Solomon Islands,0,0,,
+Somalia,0,0,,
+South Sudan,0,0,,
+Spain,0,0,,
+Sudan,0,0,,
+Suriname,0,0,,
+Swaziland,0,0,,
+Sweden,0,0,,
+Switzerland,0,0,,
+Syria,0,0,,
+Taiwan,0,0,,
+Tajikistan,0,0,,
+Tanzania,0,0,,
+Thailand,0,0,,
+Togo,0,0,,
+Tonga,0,0,,
+Tunisia,0,0,,
+Turkey,0,0,,
+Turkmenistan,0,0,,
+Tuvalu,0,0,,
+Uganda,0,0,,
+Ukraine,0,0,,
+United Arab Emirates,0,0,,
+United States of America,0,0,,
+Uruguay,0,0,,
+Uzbekistan,0,0,,
+Vanuatu,0,0,,
+Vatican City (Holy See),0,0,,
+Venezuela,0,0,,
+Vietnam,0,0,,
+Yemen,0,0,,
+Zambia,0,0,,
+Zimbabwe,2,0.35335689,,
+USA,0,0,,

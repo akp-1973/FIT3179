@@ -1,14 +1,14 @@
 ﻿dismissal_kind,Dismissal Type,Count 
 caught,caught,5348
-caught,caught,5347
 caught,bowled,1581
-bowled,run out,852
+caught,run out,852
 bowled,lbw,540
-caught,caught and bowled,211
-run out,stumped,278
-caught,retired hurt,12
+bowled,caught and bowled,211
+caught,stumped,278
+run out,retired hurt,12
 caught,hit wicket,10
 caught,obstructing the field,2
+caught,,
 caught,,
 bowled,,
 caught,,

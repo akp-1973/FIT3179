@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "width": 800,
   "height": 500,
-  "title": "Earthquakes of magnitude 4 or large between 4 Oct 2020 and 10 Oct 2020",
+  "title": "IPL Players Country of Origin",
   "projection": {"type": "equirectangular"},
   "layer": [
     {

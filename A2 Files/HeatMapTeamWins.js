@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "data": {"url": "https://raw.githubusercontent.com/akshithP/FIT3179/main/A2 Files/Team_Wins.csv"},
-  "width": 400,
-  "height": 400,
+  "width": 500,
+  "height": 500,
   "title": "IPL Team's Yearly Wins",
   "params": [
     {

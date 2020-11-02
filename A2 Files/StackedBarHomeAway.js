@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "title": "IPL Teams' Home & Away Wins",
-  "width": 600,
+  "width": 500,
   "height": 500,
   "data": {
       "url": "https://raw.githubusercontent.com/akshithP/FIT3179/main/A2 Files/TeamHomeAwayWins.csv"

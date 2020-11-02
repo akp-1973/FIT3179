@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "width": 800,
-  "height": 500,
+  "width": 630,
+  "height": 400,
   "title": "IPL Players Country of Origin",
   "projection": {"type": "equirectangular"},
   "layer": [

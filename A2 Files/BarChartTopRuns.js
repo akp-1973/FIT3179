@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "width": 620,
-  "height": 520,
+  "width": 500,
+  "height": 500,
   "title": "IPL All Time Batting Leaders (Most Runs)",
   "data": {
       "url": "https://raw.githubusercontent.com/akshithP/FIT3179/main/Homework 10/Part 3/TopTenRuns.csv"

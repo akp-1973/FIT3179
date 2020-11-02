@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "width": 600,
-  "height": 600,
+  "width": 500,
+  "height": 500,
   "title": "IPL Batsmen Batting Hand Style",
   "data": {
       "url": "https://raw.githubusercontent.com/akshithP/FIT3179/main/Homework 10/Part 3/Batting_Hand_Data.csv"

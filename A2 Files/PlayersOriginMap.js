@@ -33,7 +33,7 @@
         "tooltip": [
           {"field": "Country", "type": "nominal"},
           {"field": "Count", "type": "quantitative"},
-          {"field": "Percentage of Players", "type": "quantitative"}
+          {"field": "Percentage of Players", "type": "quantitative", "format": ".2f"}
         ]
       }
     }

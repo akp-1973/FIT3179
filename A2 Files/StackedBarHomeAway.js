@@ -38,9 +38,7 @@
       },
       "tooltip": [
           {"field": "Team", "type": "nominal"},
-          {"field": "Total", "type": "quantitative", "title": "Total Win %"}
+          {"field": "Total", "type": "quantitative", "title": "Total Win %", "format": ".2f"}
       ]
   }
 }
-
-

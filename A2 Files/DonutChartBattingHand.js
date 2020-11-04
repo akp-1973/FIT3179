@@ -20,7 +20,7 @@
         "fields": ["Batting Hand"], 
         "bind": "legend" } 
       },
-  "mark": {"type": "arc", "innerRadius": 120},
+  "mark": {"type": "arc", "innerRadius": 100},
   "encoding": {
       "color":{"field": "Batting Hand", "type": "nominal",
       "scale": {
@@ -48,7 +48,7 @@
   }, 
       {"mark": {
           "type": "text",
-          "radius": 190,
+          "radius": 160,
           "dy": -60,
           "fontSize": 17},
           "encoding": {

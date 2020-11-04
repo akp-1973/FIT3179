@@ -11,7 +11,7 @@
       "bind":{
         "input": "range",
         "min": 0,
-        "max": 11,
+        "max": 10,
         "step": 1,
         "name": "Minimun Wins" 
       }
